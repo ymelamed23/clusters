@@ -1,2 +1,0 @@
-# clusters
-NFL Offensive Clusters
